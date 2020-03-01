@@ -1,4 +1,4 @@
-# This week's Schedule (3/10 - 3/16)
+# This week's Schedule (3/1 - 3/7)
 
 ## Lecture
 + [Unsupervised Learning - Clustering](https://docs.google.com/presentation/d/1hlhKA0fcVUojdC9dUw8tO-vhqbQOENGqwYuqr7Fa_jw/edit?usp=sharing)
