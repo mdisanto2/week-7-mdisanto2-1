@@ -7,12 +7,14 @@
 + K-means Clustering with Scikit-learn
 
 You can clone these notebooks using the Github classroom's __invitation link__.
+
 Required data file(s) is in the './data/' folder.
 
 Besure to __complete__ the notebooks and __commit__ back.
 
 ## Student Work
-+ Competition 2 __Pitch due Today__
++ Competition 1 __Extended Due 3/3__
++ Competition 2 Topic Selection __Due 3/3__
   + required files to be updated
-+ mini-project 2 Part2 available __Due 3/25__
++ mini-project 2 Part2 available __Due 3/17__
 
